@@ -21,7 +21,7 @@ body:
 
         **How to help:** capture MyHarmony syncing or setting up a hub, redact
         it, and post it with the
-        [hub capture issue template](https://github.com/harmony-revival/harmony-server/issues/new?template=hub-capture.md).
+        [hub capture issue template](https://github.com/aleksgain/harmony-server/issues/new?template=hub-capture.md).
         It has step-by-step mitmproxy, Charles and Wireshark instructions and a
         redaction checklist. Use this discussion for questions, partial
         findings, and comparing notes.

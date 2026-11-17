@@ -9,9 +9,9 @@ self-hosted replacement for the MyHarmony software and cloud.
 
 | repository | what it is |
 |---|---|
-| [harmony-server](https://github.com/harmony-revival/harmony-server) | Self-hosted backend (Python / FastAPI, Docker) that stands in for `svcs.myharmony.com` and `setup.myharmony.com` |
-| [harmony-client](https://github.com/harmony-revival/harmony-client) | Desktop app for Windows, macOS and Linux (Electron) that replaces MyHarmony |
-| [harmony-device-db](https://github.com/harmony-revival/harmony-device-db) | Packaged snapshot of the Harmony IR database: about 278,000 devices and 13 million commands |
+| [harmony-server](https://github.com/aleksgain/harmony-server) | Self-hosted backend (Python / FastAPI, Docker) that stands in for `svcs.myharmony.com` and `setup.myharmony.com` |
+| [harmony-client](https://github.com/aleksgain/harmony-client) | Desktop app for Windows, macOS and Linux (Electron) that replaces MyHarmony |
+| [harmony-device-db](https://github.com/aleksgain/harmony-device-db) | Packaged snapshot of the Harmony IR database: about 278,000 devices and 13 million commands |
 
 ## Help needed now: hub captures
 
@@ -20,13 +20,13 @@ configuration (`Discovery.svc`) is undocumented, and it can only be recorded
 while those servers answer. If you have a Harmony Hub and a PC, a 15-minute
 capture helps more than any code.
 
-**[Submit a hub capture →](https://github.com/harmony-revival/harmony-server/issues/new?template=hub-capture.md)**
+**[Submit a hub capture →](https://github.com/aleksgain/harmony-server/issues/new?template=hub-capture.md)**
 
 ## Get involved
 
 - Contributing: see `CONTRIBUTING.md` in each repository
-- [Code of Conduct](https://github.com/harmony-revival/.github/blob/main/.github/CODE_OF_CONDUCT.md)
-- [Security policy](https://github.com/harmony-revival/.github/blob/main/.github/SECURITY.md)
+- [Code of Conduct](https://github.com/aleksgain/harmony-org/blob/main/.github/CODE_OF_CONDUCT.md)
+- [Security policy](https://github.com/aleksgain/harmony-org/blob/main/.github/SECURITY.md)
 
 Harmony Revival is not affiliated with or endorsed by Logitech. "Logitech" and
 "Harmony" are trademarks of Logitech.

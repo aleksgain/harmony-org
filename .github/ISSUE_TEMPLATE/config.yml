@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
   - name: Report a security vulnerability
-    url: https://github.com/harmony-revival/.github/blob/main/.github/SECURITY.md
+    url: https://github.com/aleksgain/harmony-org/blob/main/.github/SECURITY.md
     about: Please do not report security issues in public issues.
   - name: Questions and protocol discussion
-    url: https://github.com/orgs/harmony-revival/discussions
+    url: https://github.com/aleksgain/harmony-server/discussions
     about: Ask questions and discuss protocol findings.

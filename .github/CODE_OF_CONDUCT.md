@@ -20,9 +20,9 @@ elsewhere.
 
 ## Reporting
 
-Report conduct issues privately to the organisation owners. Use the
-"Report content" option on the comment, or contact an owner listed on the
-[organisation's People page](https://github.com/orgs/harmony-revival/people).
+Report conduct issues privately to the maintainer. Use the
+"Report content" option on the comment, or contact the maintainer via their
+[GitHub profile](https://github.com/aleksgain).
 Reports are kept confidential.
 
 Maintainers may edit or remove contributions, and may warn, temporarily ban or
